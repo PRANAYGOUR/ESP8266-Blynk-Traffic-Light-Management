@@ -390,6 +390,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Pranay Gour N**
+**Indana Dheeraj**
 
 B.Tech Computer Science & Engineering  
 Artificial Intelligence & Machine Learning
