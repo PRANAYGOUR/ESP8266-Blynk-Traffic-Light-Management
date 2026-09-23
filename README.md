@@ -389,7 +389,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Pranay Gour N**
+**Pranay Gour N**<br>
 **Indana Dheeraj**
 
 B.Tech Computer Science & Engineering  
